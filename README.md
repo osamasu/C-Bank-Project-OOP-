@@ -42,25 +42,38 @@ It simulates a real bank's back office — client accounts, staff/admin users wi
 ## 🖼️ Screenshots
 
 <div align="center">
-
-**Login Screen**
-<img width="1235" height="659" alt="Login screen" src="https://github.com/user-attachments/assets/7dc0bd3a-8fda-461a-8f5d-b223494a2c8b" />
-
-**Main Menu**
-<img width="1241" height="661" alt="Main menu" src="https://github.com/user-attachments/assets/660f18b1-5a40-4d07-a764-4e0247ac181b" />
-
-**Find Client**
-<img width="1123" height="655" alt="Find client screen" src="https://github.com/user-attachments/assets/a0481479-d299-4cc2-b8f6-f9068e62dba0" />
-
-**Transactions Menu**
-<img width="1159" height="666" alt="Transactions menu" src="https://github.com/user-attachments/assets/4a6cb650-539e-42a7-a42c-0a97e4c923df" />
-
-**Currency Exchange**
-<img width="1176" height="658" alt="Currency exchange screen" src="https://github.com/user-attachments/assets/0cbe57d6-de10-4d7e-94f2-c08d9ef86242" />
-
-**Manage Users**
-<img width="1149" height="663" alt="Manage users screen" src="https://github.com/user-attachments/assets/9a3bf765-a17d-47a9-a729-955868a35325" />
-
+<table>
+<tr>
+<td align="center" width="50%">
+<b>Login Screen</b><br/>
+<img src="https://github.com/user-attachments/assets/7dc0bd3a-8fda-461a-8f5d-b223494a2c8b" alt="Login screen" width="100%"/>
+</td>
+<td align="center" width="50%">
+<b>Main Menu</b><br/>
+<img src="https://github.com/user-attachments/assets/660f18b1-5a40-4d07-a764-4e0247ac181b" alt="Main menu" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>Find Client</b><br/>
+<img src="https://github.com/user-attachments/assets/a0481479-d299-4cc2-b8f6-f9068e62dba0" alt="Find client screen" width="100%"/>
+</td>
+<td align="center" width="50%">
+<b>Transactions Menu</b><br/>
+<img src="https://github.com/user-attachments/assets/4a6cb650-539e-42a7-a42c-0a97e4c923df" alt="Transactions menu" width="100%"/>
+</td>
+</tr>
+<tr>
+<td align="center" width="50%">
+<b>Currency Exchange</b><br/>
+<img src="https://github.com/user-attachments/assets/0cbe57d6-de10-4d7e-94f2-c08d9ef86242" alt="Currency exchange screen" width="100%"/>
+</td>
+<td align="center" width="50%">
+<b>Manage Users</b><br/>
+<img src="https://github.com/user-attachments/assets/9a3bf765-a17d-47a9-a729-955868a35325" alt="Manage users screen" width="100%"/>
+</td>
+</tr>
+</table>
 </div>
 
 ## 🏗️ Architecture
